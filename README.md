@@ -15,4 +15,5 @@ GSim is a Python-based simulation tool. Check out the [requirements](https://git
 
 ## Copyright
 - Main developer: Chenxi Shan
+- Contributors: Dongchao Zheng, Hekun Li
 - Attribution: Part of the codes is developed based on existing codes by Weitian Li
